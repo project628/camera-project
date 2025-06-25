@@ -1,0 +1,8 @@
+train: ..\train_person_with_part_pistol_new
+val: ..\valid_person_with_part_pistol_new
+
+# number of classes
+nc: 2
+
+# class names
+names: ['pistol','person']
